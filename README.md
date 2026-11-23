@@ -30,7 +30,6 @@ My background combines mechanical engineering, computational modelling, deep lea
 - **FlowGSP** — Development and exploration of directed graph signal processing methods.
 - **showcAIse** — Real-time AI presentation coaching system, 3rd place at LauzHack 2025.
 - **EEG Meditation App** — EEG-based application developed during the Lemanic Life Sciences Hackathon.
-- **Pix2Pix** — Exploration of image-to-image translation using deep learning.
 
 ### 🎓 Education
 
